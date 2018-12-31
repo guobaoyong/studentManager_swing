@@ -1,0 +1,2 @@
+﻿studentManager为swing+mysql
+studentManager2为swing+io
